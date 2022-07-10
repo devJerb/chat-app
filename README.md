@@ -3,8 +3,8 @@
 An app that lets you initiate a conversation with your friends.
 
 ## Brief Description
-A website that uses *Xampp* for `localhost/chatbox/index.php`.
+A website that uses **Xampp** for `localhost/chatbox/index.php`.
 
 ## Details
-Download [Xampp](https://www.apachefriends.org/) to run a `localhost` for the website.
+Download [**Xampp**](https://www.apachefriends.org/) to run a `localhost` for the website.
 
